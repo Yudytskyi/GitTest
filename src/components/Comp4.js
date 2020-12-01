@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Comp2 = () => {
+const Comp4 = () => {
     return (
         <h1>
-            component 2
+            component 4 master
         </h1>
     )
 }
 
-export default Comp2;
+export default Comp4;
