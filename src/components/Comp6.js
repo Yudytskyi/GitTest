@@ -6,7 +6,7 @@ const Comp6 = () => {
         <h1>
             component 6 main
         </h1>
-        <h3>chenge for commit</h3>
+        <h3>change for commit</h3>
         </>
     )
 }
